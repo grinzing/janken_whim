@@ -25,6 +25,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## About wh.im
 
-wh.im is a brand new viedeo-chatting app which can play various games such as "Word Wolf", "NG word game", "Quiz".
+wh.im is a brand new viedeo-chatting app which you can play various games such as "Word Wolf", "NG word game", "Quiz".
+/br If you are interested, accsess [wh.im](https://wh.im)!
 
-If you are interested, accsess [wh.im](https://wh.im)!
